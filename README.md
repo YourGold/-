@@ -45,7 +45,7 @@ We invite developers, researchers, and the broader community to help expand and 
 1. **Fork the Repository**: Click on the "Fork" button at the top-right of this page.
 2. **Clone Your Fork**: Use the following command:
    \`\`\`bash
-   git clone https://github.com/your-username/ratan-tata-digital-twin.git
+   git clone https://github.com/YourGold/Ra-Twin.git
    \`\`\`
 3. **Create a New Branch**:
    \`\`\`bash
@@ -58,7 +58,7 @@ We invite developers, researchers, and the broader community to help expand and 
 
 1. **Clone the repository**:
    \`\`\`bash
-   git clone https://github.com/your-username/ratan-tata-digital-twin.git
+   git clone https://github.com/YourGold/Ra-Twin.git
    \`\`\`
 2. **Install Dependencies**:
    - Ensure you have Python and necessary libraries installed:
@@ -79,4 +79,4 @@ We invite developers, researchers, and the broader community to help expand and 
 This project is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA)** license. This means you’re free to use and adapt the project, but it cannot be used commercially.
 
 ### Contact
-If you have any questions or would like to contribute in any other way, feel free to reach out at [your-email@example.com].
+If you have any questions or would like to contribute in any other way, feel free to reach out at alok@yourgold.app
