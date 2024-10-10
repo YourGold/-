@@ -41,34 +41,34 @@ We invite developers, researchers, and the broader community to help expand and 
 - Adding new speeches, interviews, or writings to the knowledge base.
 - Sharing personal stories or lessons learned from Ratan Tata.
 
+
 #### Steps to Contribute
-1. **Fork the Repository**: Click on the "Fork" button at the top-right of this page.
-2. **Clone Your Fork**: Use the following command:
-   \`\`\`bash
+1. **Fork the Repository**: Click on the "Fork" button at the top-right of the repository page.
+2. **Clone Your Fork**: Use the following command to clone the repository to your local machine:
+   ```bash
    git clone https://github.com/YourGold/Ra-Twin.git
-   \`\`\`
-3. **Create a New Branch**:
-   \`\`\`bash
+   ```
+3. **Create a New Branch**: Create a branch for your feature or bug fix:
+   ```bash
    git checkout -b your-feature-branch
-   \`\`\`
-4. **Make Your Changes**: Add your contributions or improvements.
-5. **Submit a Pull Request**: Once your changes are complete, submit a pull request to the main repository for review.
+   ```
+4. **Make Your Changes**: Add your contributions or improvements in the codebase.
+5. **Submit a Pull Request**: Once your changes are complete, push your branch and submit a pull request to the main repository for review.
 
 ### Installation
 
 1. **Clone the repository**:
-   \`\`\`bash
+   ```bash
    git clone https://github.com/YourGold/Ra-Twin.git
-   \`\`\`
-2. **Install Dependencies**:
-   - Ensure you have Python and necessary libraries installed:
-     \`\`\`bash
-     pip install -r requirements.txt
-     \`\`\`
-3. **Run the Project**:
-   \`\`\`bash
+   ```
+2. **Install Dependencies**: Make sure you have Python installed, and install the necessary dependencies using:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. **Run the Project**: Start the application by running:
+   ```bash
    python app.py
-   \`\`\`
+   ```
 
 ### Project Roadmap
 - **Phase 1**: Create the core AI models and interactive platform.
